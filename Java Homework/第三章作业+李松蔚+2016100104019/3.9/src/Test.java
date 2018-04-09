@@ -29,5 +29,7 @@ public class Test {
             else
                 System.out.println("x is :" + x);
 //        output is : "z is : 6"
+
     }
+
 }
