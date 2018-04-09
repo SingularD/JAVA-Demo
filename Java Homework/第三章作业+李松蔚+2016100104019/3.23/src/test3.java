@@ -10,4 +10,5 @@ public class test3 {
         System.out.println(z>=50&&z<=100);
 //        output is : false;
     }
+
 }
