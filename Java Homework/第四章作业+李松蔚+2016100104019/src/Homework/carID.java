@@ -23,9 +23,8 @@ class Number{
 public class carID {
     public static String ID = "";
     public static void main(String[] args) {
-        Word w = new Word();
-        Number n = new Number();
-        ID = w.newWord() + n.newNumber();
+
+        ID = Word.newWord() + Number.newNumber();
         System.out.println(ID);
     }
 }
