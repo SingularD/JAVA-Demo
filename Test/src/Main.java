@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) {
         People student1 = new People("lisongwei");
         People student2 = new People("liangtao");
-
         student1.peoAge(12);
         student2.peoAge(15);
         student1.peoId(12308);
